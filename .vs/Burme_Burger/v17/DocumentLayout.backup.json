@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|c:\\users\\inceb\\source\\repos\\burme_burger\\burme_burger\\formhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formsepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formsepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formsepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formsepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|C:\\Users\\inceb\\source\\repos\\Burme_Burger\\burme_burger\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9DC29-C1FE-48FA-82DC-B99C431EE16D}|Burme_Burger\\Burme_Burger.csproj|solutionrelative:burme_burger\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormMain.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormMain.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormMain.cs",
+              "RelativeToolTip": "Burme_Burger\\FormMain.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAswJYBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:15:18.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormMain.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormMain.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormMain.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Burme_Burger\\FormMain.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:15:14.582Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormMain.Designer.cs",
+              "RelativeToolTip": "Burme_Burger\\FormMain.Designer.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAgwFABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:48:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGrafik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormGrafik.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormGrafik.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormGrafik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Burme_Burger\\FormGrafik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:55:13.073Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHesap.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormHesap.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormHesap.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormHesap.cs",
+              "RelativeToolTip": "Burme_Burger\\FormHesap.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:54:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHesap.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormHesap.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormHesap.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormHesap.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Burme_Burger\\FormHesap.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:40:19.584Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSepet.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormSepet.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormSepet.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormSepet.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Burme_Burger\\FormSepet.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:49:01.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSepet.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormSepet.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormSepet.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormSepet.cs",
+              "RelativeToolTip": "Burme_Burger\\FormSepet.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAADwv6wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:56:33.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRegister.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormRegister.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormRegister.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Burme_Burger\\FormRegister.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:49:22.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\Form1.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\Form1.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Burme_Burger\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:30:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormGrafik.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormGrafik.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormGrafik.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormGrafik.cs",
+              "RelativeToolTip": "Burme_Burger\\FormGrafik.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:21:40.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\Program.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\Program.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\Program.cs",
+              "RelativeToolTip": "Burme_Burger\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:29:05.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormRegister.cs",
+              "RelativeDocumentMoniker": "Burme_Burger\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\inceb\\source\\repos\\Burme_Burger\\Burme_Burger\\FormRegister.cs",
+              "RelativeToolTip": "Burme_Burger\\FormRegister.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:56:36.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

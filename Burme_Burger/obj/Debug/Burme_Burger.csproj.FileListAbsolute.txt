@@ -1,0 +1,47 @@
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\Burme_Burger.exe.config
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\Burme_Burger.exe
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\Burme_Burger.pdb
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.csproj.AssemblyReference.cache
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.Properties.Resources.resources
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.csproj.GenerateResource.cache
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.csproj.CoreCompileInputs.cache
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.exe
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.pdb
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.FormLogin.resources
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.FormRegister.resources
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.FormMain.resources
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\elmalitatli.webp
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\kadayif.webp
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\sade-maras-dondurmasi.webp
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\askacisisos.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\ciftteKilicMenü.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\citirhellim.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\gurmenugget.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\hataysoslucitirtavuk.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\Lezzet-i Hurriyet.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\Malazgirt Sofrasi.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\manda.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\mangalsos.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\Metropolitan.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\sarımsaklimayonez.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\sogankizartma.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\halka.jpg
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\ketçap (2) (1).png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\mandayeni.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\mangalyeni.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\anaform\sarımsaklıyeni.png
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.FormSepet.resources
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.FormHesap.resources
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\burmeburgerDB.db
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\EntityFramework.dll
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\System.Data.SQLite.dll
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\EntityFramework.xml
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\System.Data.SQLite.xml
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Bu.FF5DD2C1.Up2Date
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\Dapper.dll
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\bin\Debug\Dapper.xml
+C:\Users\inceb\source\repos\Burme_Burger\Burme_Burger\obj\Debug\Burme_Burger.FormGrafik.resources
